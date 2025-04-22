@@ -4,11 +4,11 @@ I have attached the complete project report, dataset summary, and the trained mo
 │
 ├── 📄 README.md                # Project overview, methodology, and instructions
 ├── 📄 Final_Report.pdf         # Final documented report for client
-├── 📄 Model_Comparison.xlsx    # R2 scores comparison table (optional)
+├── 📄 Model_Comparison.xlsx    # R2 scores comparison table 
 ├── 📄 requirements.txt         # Dependencies
 ├── 📁 dataset
 │   └── insurance_pre.csv
 ├── 📁 notebooks
 │   └── Assig.MLR_Insurance_Charge_Prediction.ipynb
-├── 📁 models                   # If you save the final model using joblib/pickle
+├── 📁 models                   # If you save the final model using pickle
 │   └── final_rf_model.pkl
