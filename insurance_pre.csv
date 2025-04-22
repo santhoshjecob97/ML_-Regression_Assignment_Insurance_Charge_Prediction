@@ -1,0 +1,5 @@
+Model,R² Score
+Linear Regression,0.78
+Support Vector Machine,0.86
+Decision Tree,0.73
+ Random Forest,0.853
